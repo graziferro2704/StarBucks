@@ -202,15 +202,16 @@ h3 {
     color: black;
 }
 
+/* COLOCANDO ICONES */
+.icones {
+    display: flex;
+    justify-content: center;
+}
 
-
-
-
-
-
-
-
-
+.icones > img {
+    margin: 5px;
+    margin-top: 20px;
+}
 
 
 
